@@ -41,6 +41,7 @@ button {
 }
 
 input {
+  background-color: rgb(158, 155, 155);
   font-size: 20px;
   margin: 2px;
   width: 100px;
